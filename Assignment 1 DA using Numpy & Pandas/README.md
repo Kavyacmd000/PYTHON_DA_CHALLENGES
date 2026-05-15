@@ -1,145 +1,91 @@
-# 📊 Python for Data Analysis Portfolio
-
-Welcome to my Python for Data Analysis portfolio repository.
-
-This repository contains assignments and capstone projects completed during my Data Analytics training using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
+# 📊 Assignment 2 – Data Visualization
 
 ---
 
-# 📌 Repository Overview
+# 📌 Project Overview
 
-The projects included in this repository demonstrate:
+This assignment focuses on data visualization techniques using Python libraries such as Matplotlib, Pandas Plotting, and Seaborn.
 
-- Data analysis using NumPy & Pandas
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Data wrangling & transformation
-- Data visualization using Matplotlib & Seaborn
-- Business insight generation
-- Social media engagement analytics
+The assignment demonstrates data cleaning, handling missing values, and creating various visualizations to analyze taxi trip data and identify patterns and relationships.
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Technologies Used
 
 - Python
-- Jupyter Notebook
-- Google Colab
-- NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Plotly
+- Jupyter Notebook
 
 ---
 
-# 📂 Projects Included
+# 📂 Dataset Used
 
-## 1️⃣ Assignment 1 – Data Analysis using NumPy & Pandas
-
-### Topics Covered
-- NumPy Array Operations
-- Array Slicing & Indexing
-- Statistical Calculations
-- Pandas Series
-- Pandas DataFrames
-- Data Manipulation
-- GroupBy Operations
-
-### Skills Demonstrated
-✔ NumPy Operations  
-✔ Pandas Data Handling  
-✔ Data Manipulation  
-✔ Data Analysis Fundamentals  
+- Seaborn Built-in Dataset: `taxis`
 
 ---
 
-## 2️⃣ Assignment 2 – Data Visualization
+# 🧹 Data Cleaning Operations
 
-### Topics Covered
-- Handling Missing Values
-- Data Cleaning
-- Matplotlib Visualizations
-- Seaborn Visualizations
-- Correlation Analysis
+Performed preprocessing tasks such as:
 
-### Visualizations Implemented
+- Checking missing values
+- Handling null values
+- Imputing numerical and categorical columns
+- Removing invalid or incomplete records
+- Converting datetime columns
+
+---
+
+# 📊 Visualizations Implemented
+
+## Matplotlib / Pandas Plots
 - Line Chart
 - Bar Chart
 - Pie Chart
 - Histogram
 - Box Plot
+
+## Seaborn Plots
 - Count Plot
 - Scatter Plot
 - Heatmap
 - Pair Plot
 - Violin Plot
 
-### Skills Demonstrated
-✔ Data Visualization  
-✔ Exploratory Data Analysis  
-✔ Correlation Analysis  
-✔ Plotting Techniques  
+---
+
+# 🔍 Analysis Performed
+
+- Fare trend analysis over time
+- Borough-wise fare comparison
+- Payment method distribution
+- Distance distribution analysis
+- Tip amount comparison by borough
+- Correlation analysis between numerical variables
+- Relationship between fare and distance
 
 ---
 
-## 3️⃣ Capstone Project – Social Media Engagement Analytics
+# 📂 Files Included
 
-### Project Objective
-Analyze social media engagement metrics to understand user behavior, content performance, and engagement trends.
-
-### Key Operations Performed
-- Data Import & Setup
-- Data Cleaning
-- Missing Value Handling
-- Duplicate Removal
-- Feature Engineering
-- Statistical Analysis
-- Exploratory Data Analysis
-- Interactive Visualizations
-
-### Business Insights Generated
-✔ Best-performing content categories  
-✔ User engagement trends  
-✔ Sentiment performance analysis  
-✔ Device impact on engagement  
-✔ Country-wise engagement insights  
-✔ Age-based behavioral analysis  
+- Questions PDF
+- Jupyter Notebook Solution
 
 ---
 
 # 📊 Skills Demonstrated
 
-✔ Data Cleaning  
-✔ Data Wrangling  
-✔ Exploratory Data Analysis  
-✔ Statistical Analysis  
 ✔ Data Visualization  
-✔ Feature Engineering  
-✔ Business Insight Generation  
-✔ Social Media Analytics  
+✔ Exploratory Data Analysis  
+✔ Missing Value Handling  
+✔ Correlation Analysis  
+✔ Statistical Interpretation  
+✔ Python Plotting Libraries  
 
 ---
 
-# 📈 Libraries Used
+# 🎯 Learning Outcome
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
-
----
-
-# 🎯 Conclusion
-
-This repository showcases practical Python data analysis skills through assignments and real-world analytics projects.
-
-The projects demonstrate my ability to:
-- Analyze structured datasets
-- Clean and transform data
-- Create meaningful visualizations
-- Generate business insights
-- Perform statistical and exploratory analysis
-using Python data analysis libraries.
+This assignment improved practical understanding of data visualization concepts and strengthened skills in creating meaningful analytical charts using Python libraries.
