@@ -1,70 +1,58 @@
-# 📊 Assignment 2 – Data Visualization
+# 📊 Assignment 1 – Data Analysis using NumPy & Pandas
 
 ---
 
 # 📌 Project Overview
 
-This assignment focuses on data visualization techniques using Python libraries such as Matplotlib, Pandas Plotting, and Seaborn.
+This assignment focuses on performing data analysis using Python libraries NumPy and Pandas.
 
-The assignment demonstrates data cleaning, handling missing values, and creating various visualizations to analyze taxi trip data and identify patterns and relationships.
+The assignment demonstrates array operations, statistical calculations, data manipulation, indexing, slicing, and DataFrame analysis techniques using structured datasets.
 
 ---
 
 # 🛠️ Technologies Used
 
 - Python
+- NumPy
 - Pandas
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
 
-# 📂 Dataset Used
+# 📊 Topics Covered
 
-- Seaborn Built-in Dataset: `taxis`
-
----
-
-# 🧹 Data Cleaning Operations
-
-Performed preprocessing tasks such as:
-
-- Checking missing values
-- Handling null values
-- Imputing numerical and categorical columns
-- Removing invalid or incomplete records
-- Converting datetime columns
+## NumPy Array Operations
+- Creating 1D & 2D Arrays
+- Array Inspection
+- Shape & Data Type Analysis
+- Array Slicing & Indexing
+- Temperature Conversion
+- Statistical Calculations
+  - Maximum
+  - Minimum
+  - Mean
 
 ---
 
-# 📊 Visualizations Implemented
-
-## Matplotlib / Pandas Plots
-- Line Chart
-- Bar Chart
-- Pie Chart
-- Histogram
-- Box Plot
-
-## Seaborn Plots
-- Count Plot
-- Scatter Plot
-- Heatmap
-- Pair Plot
-- Violin Plot
+## Pandas Series
+- Creating Series
+- Indexing & Slicing
+- loc & iloc Operations
+- Boolean Masking
+- Updating Values
+- Series Manipulation
 
 ---
 
-# 🔍 Analysis Performed
-
-- Fare trend analysis over time
-- Borough-wise fare comparison
-- Payment method distribution
-- Distance distribution analysis
-- Tip amount comparison by borough
-- Correlation analysis between numerical variables
-- Relationship between fare and distance
+## Pandas DataFrame
+- Creating DataFrames
+- Data Exploration
+- Filtering Rows
+- Selecting Columns
+- Value Counts
+- Unique Values
+- GroupBy Operations
+- Data Manipulation
 
 ---
 
@@ -77,15 +65,26 @@ Performed preprocessing tasks such as:
 
 # 📊 Skills Demonstrated
 
-✔ Data Visualization  
-✔ Exploratory Data Analysis  
-✔ Missing Value Handling  
-✔ Correlation Analysis  
-✔ Statistical Interpretation  
-✔ Python Plotting Libraries  
+✔ NumPy Operations  
+✔ Pandas Data Handling  
+✔ Data Manipulation  
+✔ Statistical Analysis  
+✔ Data Exploration  
+✔ Data Wrangling  
+
+---
+
+# 🔍 Analysis Performed
+
+- Temperature data analysis
+- Celsius to Fahrenheit conversion
+- Student marks analysis
+- Transaction data exploration
+- Region-wise aggregation analysis
+- Product category analysis
 
 ---
 
 # 🎯 Learning Outcome
 
-This assignment improved practical understanding of data visualization concepts and strengthened skills in creating meaningful analytical charts using Python libraries.
+This assignment strengthened practical understanding of NumPy and Pandas
